@@ -4,7 +4,7 @@ public class JUnitExamples {
 
         @BeforeAll
         static void beforeAll() {
-            System.out.println("Here is beforeAll()\n");
+            System.out.println("\nHere is beforeAll()\n");
         }
 
         @BeforeEach
