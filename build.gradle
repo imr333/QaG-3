@@ -10,7 +10,6 @@ dependencies {
     testImplementation (
             "com.codeborne:selenide:7.3.2",
             "org.junit.jupiter:junit-jupiter-engine:5.10.2",
-            "org.slf4j:slf4j-simple:2.0.13"
     )
 }
 
